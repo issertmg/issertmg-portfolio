@@ -8,7 +8,7 @@ const footerStyle = {
 export default function Footer() {
     return (
         <div style={footerStyle}>
-        Isser Gagan c 2022
+        Isser Gagan © 2022
         </div>
     )
 }

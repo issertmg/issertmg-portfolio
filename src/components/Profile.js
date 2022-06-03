@@ -6,7 +6,7 @@ export default function Profile() {
     const user = {
         fullName: "Isser Gagan",
         occupation: "Computer Science Student",
-        location: "Pasay, PH",
+        location: "Pasay, PH 🇵🇭",
         email: "issertmg@gmail.com",
         profilePhoto: "https://media-exp1.licdn.com/dms/image/C5603AQE6m-bnAWvm2w/profile-displayphoto-shrink_800_800/0/1651909120704?e=1659571200&v=beta&t=SYsF031GPWmOCJ2dXEFDUZz1Ifej-0JG13cnwAQRvh0",
         socials: [
